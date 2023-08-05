@@ -12,4 +12,5 @@ function maxInArray(number) {
 
 const heights = [167, 190, 120, 165, 267];
 const tallest = maxInArray(heights);
-console.log('tallest person :', tallest);
+// console.log('tallest person :', tallest);
+console.log('dgfdgfg');
