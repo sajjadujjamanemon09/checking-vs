@@ -14,4 +14,4 @@ console.log(first, second);
 
 // approach 2 ---- destructuring
 [first , second] = [second, first];
-console.log(first, second)
+console.log(first, second) 
